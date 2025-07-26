@@ -16,7 +16,7 @@ dependencies = [
     "pyyaml",
     "tensorboard",
     "wandb",
-    "numba>=0.61.2",
+    "numba",
     "e3nn>=0.5",
     "requests",
     "orjson",
